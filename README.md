@@ -1,5 +1,4 @@
 # react_django
 
-React-redux-DjangoREST
-basic lead manager app, with token authentication,
-Tutorial by TraversyMedia
+React-Redux and Python (DjangoREST) Stack
+Basic web app using JS-Python integration.
